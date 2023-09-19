@@ -9,3 +9,6 @@ vh (view height) is a % of what ever view port is being used I.e the device
 
 Display 
 -block; = stack building blocks if siblings 
+
+
+A tag = link tag with underlines and colored blue
