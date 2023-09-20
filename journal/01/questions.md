@@ -22,7 +22,7 @@
         }
     ```
 
-    > | ANSWER HERE |
+    > | Selector, Project,Value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
     > | ANSWER HERE |
