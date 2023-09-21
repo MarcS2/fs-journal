@@ -9,10 +9,10 @@
     > | ANSWER HERE |
 
 04. What is ***specificity*** and how might you use it to your benefit?
-    > | ANSWER HERE |
+    > | specificity is a numerical value given to selectors that creates a sort of importance that makes the property of that selector applied as long as it's not being changed by a different selector with higher weight. |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > | If you are working with a team or comeback to a project where the !important feature has been utilized it can limit you from making edits to the page because the !important feature is just over ruling the new code  |
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
