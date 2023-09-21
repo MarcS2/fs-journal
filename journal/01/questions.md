@@ -25,7 +25,7 @@
     > | Selector, Project,Value |
 
 07. How do you think good design influences people when visiting a website, and what sorts of things could you convey through design alone?
-    > | ANSWER HERE |
+    > | You convey professionalism as well as make the users feel more inclined to trust the website |
 
 08. What is the purpose of ***wireframing***?
     > | ANSWER HERE |
