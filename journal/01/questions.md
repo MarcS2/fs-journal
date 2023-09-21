@@ -28,10 +28,10 @@
     > | You convey professionalism as well as make the users feel more inclined to trust the website |
 
 08. What is the purpose of ***wireframing***?
-    > | ANSWER HERE |
+    > | You wireframe to get a basic idea of the page in mind so that laying out the code is a little more origanized  |
 
 09. Do you think wireframes are worth the time, energy, and effort that they require? Why or Why not?
-    > | ANSWER HERE |
+    > |  I believe that they can be worth making. They don't have to be perfect and when taking on bigger projects it can help keep you on task |
 
 10. Define the display `:flex property:`
     > | ANSWER HERE |
