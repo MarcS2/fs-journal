@@ -1,12 +1,12 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > | One of the main reasons we use git is so that our code is held is a safer place than just a laptop as well as to help out the dev community and work on projects with multiple developers  |
 
 02. In the terminal, what is the command `mkdir` used for?
     > | make directory |
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
-    > | ANSWER HERE |
+    > | pseudo-classes are another way to select and style element. They let you select and style elements that can't be targeted with the generic element selectors  |
 
 04. What is ***specificity*** and how might you use it to your benefit?
     > | specificity is a numerical value given to selectors that creates a sort of importance that makes the property of that selector applied as long as it's not being changed by a different selector with higher weight. |
@@ -34,7 +34,7 @@
     > |  I believe that they can be worth making. They don't have to be perfect and when taking on bigger projects it can help keep you on task |
 
 10. Define the display `:flex property:`
-    > | ANSWER HERE |
+    > | when used on an element display flex turns that element into a flex box and the child elements are turned into flex items   |
 
 11. What `CSS` properties affect the size of a box model?
-    > | ANSWER HERE |
+    > | Width,Height,Padding,Margin, |
