@@ -37,6 +37,34 @@ script tag goes in the bottom of the body for js
 
 Numbers 
 
--math in js works with PEMDAS: ()^*+-
+-math in js works with P.E.M.D.A.S: ()^*/+-
+
+Objects{} & Arrays[]
+
+-objects store things in key value pairs
+
+-you can pull out key-pairs in an object by using brackets and quotes ie person['name'] ie person.name
+
+const person = {
+  name = 'Jeremy'
+
+  key^   value^
+  exmpArray: [0,1,2,3]
+  arrays use index to store 
+}
 
 
+? are a ternary operator they can be used to determine true or false and return a resault based on if its T/F
+console.log(`hello I am $[person.name ? 'true input' : 'false input']`)
+                    object ^  key  ^
+
+- you can dump key pairs from objects to new values ie 
+const copyPerson = {...person}
+copyPerson.name 
+-with this you can access info from the original array
+
+
+Array
+
+- const arrayOfNums = [1, 2, 3, 4]
+-const strings = ['hello', 'what']
