@@ -19,3 +19,9 @@ when using box-shadow: x axispx, y axispx, blurpx;
 
 
 @media(max-height:;) {}rules allow you to change styles such as a bg img when your resolution hits a certain point you should always define the media rules at the bottom of the style sheet so that nothing over rides it
+
+
+
+9/28 
+user-select: none;
+-this can keep users from highlighting whatever elem the user-select class is on 

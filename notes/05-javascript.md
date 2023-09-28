@@ -68,3 +68,19 @@ Array
 
 - const arrayOfNums = [1, 2, 3, 4]
 -const strings = ['hello', 'what']
+
+
+
+
+9/28
+
+
+
+marquee behavior = "" direction=""  scrollamount="speed of elm"
+<!-- for moving elements -->
+
+- you can add a marquee inside a marquee to elements around their parent elem 
+
+
+you can use document.getElemntByID() with a .querySelector('.') using the . makes it a class query elector to grab elements with classes inside of the elem with the # tag the main parent elm
+
