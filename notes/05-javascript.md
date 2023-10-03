@@ -84,3 +84,7 @@ marquee behavior = "" direction=""  scrollamount="speed of elm"
 
 you can use document.getElemntByID() with a .querySelector('.') using the . makes it a class query elector to grab elements with classes inside of the elem with the # tag the main parent elm
 
+
+
+
+10/2
