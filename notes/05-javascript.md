@@ -84,3 +84,22 @@ marquee behavior = "" direction=""  scrollamount="speed of elm"
 
 you can use document.getElemntByID() with a .querySelector('.') using the . makes it a class query elector to grab elements with classes inside of the elem with the # tag the main parent elm
 
+
+
+
+10/3
+
+Class constructor 
+class Gachamon {
+  constructor (data) {
+    this.name = data.name
+    this.emoji = data.emoji
+  }
+}
+when passing parameters you can use data to access a object passed through that you can dill into with data 
+
+
+Controller 
+- you can access the appState from the controller but you should not be changing any values that is the services job
+
+-controllers should only be dealing with one main data type 
