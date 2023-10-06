@@ -13,7 +13,7 @@
 
 04. What are some of the benefits of the `Proxy` object that we are using in our structure for applications?
   
-  > | ANSWER HERE |
+  > | I know proxies can help us by allowing us to create customize and use operations on objects I don't know exactly where they are used in the MVC structure for our applications.|
 
 05. What the difference between a `class` and an instance of a `class`?
   
@@ -21,7 +21,7 @@
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > | A property's value that is set by an expression or function is a computed property.  |
 
 07. What is the purpose of the `MVC` pattern?
   
