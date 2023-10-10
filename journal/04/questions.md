@@ -29,7 +29,7 @@
 
 08. What must you do in order to `await` a promise inside of a function?
 
-  > | ANSWER HERE |
+  > | put async in front of the function then a try catch with the await promise inside the try |
 
 09. What is the purpose of encapsulation in programming?
 
