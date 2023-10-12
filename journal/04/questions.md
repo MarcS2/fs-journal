@@ -1,7 +1,7 @@
 # Understanding Asynchronous Code, and API's
 01. What is the difference between `asynchronous` code and `synchronous` code?
 
-  > | ANSWER HERE |
+  > | synchronous code runs in sequential order and things must happen one after another this can cause blocking and slow down the entire process. asynchronous code doesn't have to only run in a sequential order so you can get around blocking |
 
 02. What is an event listener?
 
@@ -21,11 +21,11 @@
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > | Get, Put, Post |
 
 07. What does the `API` acronym stand for?
 
-  > | ANSWER HERE |
+  > | Application Programming Interface |
 
 08. What must you do in order to `await` a promise inside of a function?
 
@@ -37,8 +37,8 @@
 
 10. What is `HTTP` response code for a successful request?
 
-  > | ANSWER HERE |
+  > | 200 |
 
 11. What is a 400 error?
 
-  > | ANSWER HERE |
+  > | bad request |
