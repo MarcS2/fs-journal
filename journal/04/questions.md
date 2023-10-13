@@ -5,19 +5,20 @@
 
 02. What is an event listener?
 
-  > | ANSWER HERE |
+  > | an event listener is used to wait for specific events to happen then calls the function that is provided |
 
 03. What does *REST* stand for, and in simple terms what does it mean??
 
-  > | ANSWER HERE |
+  > | it stands for representational state transfer it is a principle followed when creating APIs it means that the server will send over a representation of the state of the data in the database |
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > | A higher order function is a function that takes in one or many functions as arguments and returns a function. a callback function is excusable code that is passed as an arg to another piece of code that will execute that code |
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > | A promise is like an actual promise its an object that represents weather a promise was fulfilled or rejected based on task its told to carry out. To capture an error you use the
+   .catch() method |
 
 06. Name three processes used to make requests over `HTTP`?
 
@@ -33,7 +34,7 @@
 
 09. What is the purpose of encapsulation in programming?
 
-  > | ANSWER HERE |
+  > | encapsulations in programming helps with security, abstraction and overall data hiding it also helps your better organize your code and write more scalable and maintainable code. |
 
 10. What is `HTTP` response code for a successful request?
 
