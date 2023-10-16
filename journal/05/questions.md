@@ -5,7 +5,7 @@
 
 02. Each action that `CRUD` represents maps to an HTTP request. What HTTP request does each `CRUD` action correspond to?
 
-  > | Post, Get, Put, Delete |
+  > | Create-Post, Read-Get, Update-Put, Destroy-Delete |
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
