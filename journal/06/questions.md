@@ -13,7 +13,7 @@
 
 04. What are the three tags that make up a Vue component?
 
-  > | ANSWER HERE |
+  > | <template></template>, <script></script>, <style></style> |
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
@@ -29,7 +29,7 @@
 
 08. What is the responsibility of `Services` in our Vue projects?
 
-  > | ANSWER HERE |
+  > | to deal with anything that has to change the data in our appstate or db |
 
 09. What are ***props*** and how are they used? Provide an example
 
@@ -37,4 +37,4 @@
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
-  > | ANSWER HERE |
+  > | reactive |

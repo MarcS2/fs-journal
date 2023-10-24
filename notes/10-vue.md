@@ -58,3 +58,9 @@ Any on behavior can be replaced with @
 
 Params Args 
 - entire objects can be passed down as args this can only be done in a v-for ie a forEach cause that's where you have access to it.
+
+
+10/24
+
+v-for 
+in a v-for they required a v-bind key that is unique to that data ie id, name,
