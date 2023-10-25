@@ -64,3 +64,13 @@ Params Args
 
 v-for 
 in a v-for they required a v-bind key that is unique to that data ie id, name,
+
+
+10/25
+
+Components 
+- You can get around building out extra components, but generally you should build them out whenever you can.
+
+Pages
+
+- no page should ever have props cause the pages are the parents of the components that you can pass props to
