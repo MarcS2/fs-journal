@@ -1,15 +1,15 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > | ANSWER HERE |
+  > | The first function or code that is ran when you start run the application |
 
 02. What is the difference between a vue `component` and `page`?
 
-  > | ANSWER HERE |
+  > | under the hood pages are components, but pages are used as the overall main view for that page. Components are compiled on the page to build sections of the actual application. |
 
 03. What is ***Component-Based Architecture***?
 
-  > | ANSWER HERE |
+  > | It's a method of software development that breaks down code into self contained self sufficient components. |
 
 04. What are the three tags that make up a Vue component?
 
@@ -33,7 +33,7 @@
 
 09. What are ***props*** and how are they used? Provide an example
 
-  > | ANSWER HERE |
+  > | props are a way to pass data from a parent component to a child component. they are used by setting up what prop the child component expects then send that prop through the parent component. An example would be to pass |
 
 10. What is the Vue method used to create watchable objects such as `state` or `AppState`?
 
