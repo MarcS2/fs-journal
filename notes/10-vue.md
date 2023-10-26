@@ -74,3 +74,5 @@ Components
 Pages
 
 - no page should ever have props cause the pages are the parents of the components that you can pass props to
+
+
