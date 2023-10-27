@@ -17,15 +17,15 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > | they are used to call methods or run code during specified points of the codes lifecycle |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > | <router-view></router-view> |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > |  |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
