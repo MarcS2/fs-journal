@@ -17,15 +17,15 @@
 
 05. What are ***lifecycle hooks***? What are lifecycle hooks used for?
 
-  > | ANSWER HERE |
+  > | It allows us to invoke certain methods or run code during specified points of the applications life cycle |
 
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > | ANSWER HERE |
+  > | <router-view> |
 
 07. What is the difference between the `AppState` and the state object within a component?
 
-  > | ANSWER HERE |
+  > | the AppState is globally scoped and it is stored in a higher level of the application. A state object inside of a component is scoped to that component the entire state is also stored in the component where as the AppState is an entirely separate file.  |
 
 08. What is the responsibility of `Services` in our Vue projects?
 
