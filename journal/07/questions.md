@@ -22,7 +22,7 @@
 
 6. What is the package.json file used for?
 
-  > |  |
+  > | A way to document what tools your gonna need for the app |
 
 7. Which Vue attributes(directives) could you use to conditionally render elements on a page?
 
