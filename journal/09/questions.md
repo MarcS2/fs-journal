@@ -13,15 +13,15 @@
 
 04. What is the `Strategy` design pattern?
 
-> | ANSWER HERE |
+> | the strategy design pattern allows us to preform a task in different ways based off of other data I don't fully understand it but I know that there are things in vue.js that follow this design pattern. |
 
 05. What is the `Factory` design pattern?
 
-> | ANSWER HERE |
+> | I don't know  |
 
 06. What is test driven development?
 
-> | ANSWER HERE |
+> |  test driven development is developing in small chunks and testing those chunks for proof of concept before moving on to write out the full product. |
 
 07. In Scrum/Agile what is the DoD?
 
@@ -33,8 +33,8 @@
 
 09. During which ceremony is your Sprint Backlog created?
 
-> | ANSWER HERE |
+> | Sprint Planning |
 
 10. In which of these ceremonies are Tasks assigned to you?
 
-> | ANSWER HERE |
+> | Sprint Planning ? |
