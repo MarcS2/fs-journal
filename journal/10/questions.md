@@ -25,11 +25,11 @@
   }
   ```
 
-  > | ANSWER HERE |
+  > | public |
 
 06. In the Car example what is `string` an indication of?
 
-  > | ANSWER HERE |
+  > | The type of data that the method will return |
 
 07. In the Car example what is `abstract` preventing?
 
