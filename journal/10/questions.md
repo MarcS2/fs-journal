@@ -45,4 +45,4 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > | SELECT h.* o.* FROM homes h JOIN owners o ON o.id = h.ownerId |
