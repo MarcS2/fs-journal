@@ -13,7 +13,7 @@
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
-  > | ANSWER HERE |
+  > | A primary key is the primary key of a specific table foreign key refers to another tables primary key and sets it to the current tables foreign key|
 
 5. What is an ***alias***?
 
@@ -47,4 +47,13 @@
 
   ```
 
-  > | ANSWER HERE |
+  > | 
+  SELECT 
+  p_d.*,
+  doc.*,
+  pat.*
+  FROM patient_doctors
+  JOIN doctors doc ON doc.id = p_d.doctorId
+  JOIN patients pat ON pat.id = p_d.patientId
+  
+   |
