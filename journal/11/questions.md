@@ -5,11 +5,11 @@
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
-  > | ANSWER HERE |
+  > | A child class inherits all the members that the parent class allows. Access modifiers allow the parent to control the visibility and accessibility of the members that the child class inherits. |
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | It allows a class to control a sort of permissions. For example a private property on a class will not be accessible through inheritance unless the child class in nested in the parent class. |
+  > | It allows a class to control visibility and accessability when being inherited from. For example a private property on a class will not be accessible through inheritance unless the child class in nested in the parent class. |
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
@@ -17,7 +17,7 @@
 
 5. What is an ***alias***?
 
-  > | ANSWER HERE |
+  > | A substitute name for something i.e const shortName = longName; |
 
 6. Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
