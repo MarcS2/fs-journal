@@ -1,7 +1,7 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > | ANSWER HERE |
+  > | It allows us to inherit properties and methods from other classes. Which can provide be code reusability among other things. |
 
 2. How does ***member inheritance*** work in C#? Does a `Class` inherit all members of the base `Class`?
 
@@ -9,7 +9,7 @@
 
 3. How does ***accessibility*** affect inheritance?
 
-  > | ANSWER HERE |
+  > | It allows a class to control a sort of permissions. For example a private property on a class will not be accessible through inheritance unless the child class in nested in the parent class. |
 
 4. What is the difference between a `PRIMARY KEY` and a `FOREIGN KEY`
 
